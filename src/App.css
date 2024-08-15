@@ -1,0 +1,35 @@
+/* -------------------Cambodia.jsx---------------------- */
+
+body {
+  background-color: #f0f2f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.width-selector {
+  width: 350px;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin: 0 auto; /* Center the card horizontally */
+}
+
+.Labelsss {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 16px;
+  color: #333333;
+}
+
+.width-select {
+  width: 200px;
+  margin-left: 10px;
+  border-radius: 4px;
+}
